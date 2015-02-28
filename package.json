@@ -1,0 +1,26 @@
+{
+	"name": "yencer",
+	"version": "0.1.0",
+	"description": "yEnc encoding and decoding",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/skerit/yencer.git"
+	},
+	"keywords": [
+		"yenc",
+		"usenet"
+	],
+	"dependencies": {
+		"buffer-crc32": "0.2.x"
+	},
+	"author": "Jelle De Loecker <jelle@kipdola.be>",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/skerit/yencer/issues"
+	},
+	"homepage": "https://github.com/skerit/yencer"
+}
