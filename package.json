@@ -1,6 +1,6 @@
 {
 	"name": "yencer",
-	"version": "0.1.1-alpha",
+	"version": "0.1.1",
 	"description": "yEnc encoding and decoding",
 	"main": "index.js",
 	"scripts": {
@@ -15,9 +15,9 @@
 		"usenet"
 	],
 	"dependencies": {
-		"buffer-crc32": "0.2.x"
+		"buffer-crc32": "~0.2.5"
 	},
-	"author": "Jelle De Loecker <jelle@kipdola.be>",
+	"author": "Jelle De Loecker <jelle@develry.be>",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/skerit/yencer/issues"

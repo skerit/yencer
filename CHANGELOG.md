@@ -1,4 +1,4 @@
-## 0.1.1 (WIP)
+## 0.1.1 (2016-10-04)
 
 * Use SlowBuffer, as regular Buffers don't seem to get garbage collected
   properly
